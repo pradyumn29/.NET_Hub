@@ -1,0 +1,38 @@
+﻿@using BOL1;
+
+@{
+    ViewData["Title"] = "AddNew";
+}
+
+<form action="/Home/AddNew" method="post" >
+    <table>
+        <tr>
+           Enter Id: <input type="text" id="ID" name="Id"/>
+        </tr><br />
+        <tr>
+            Enter Name:
+            <input type="text" id="name" name="name" />
+        </tr>
+        <br />
+        <tr>
+            Enter Fees:
+            <input type="text" id="fees" name="fees" />
+        </tr>
+        <br />
+        <tr>
+            Enter Course:
+            <input type="text" id="course" name="course" />
+        </tr>
+        <br />
+        <tr>
+            Enter joinDate:
+            <input type="date" id="date" name="date" />
+        </tr>
+        <br />
+        <tr>
+            <button type="submit" id="btn" name="btn" value="sumbit">Submit</button>
+        </tr>
+        <br />
+    </table>
+
+</form>

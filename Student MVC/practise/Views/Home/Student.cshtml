@@ -1,0 +1,33 @@
+﻿@using BOL1;
+
+@{
+    ViewData["Title"] = "Student";
+}
+
+<table border="1">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Fees</th>
+            <th>Course</th>
+            <th>JoinDate</th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            @foreach (Student e in ViewBag.Student)
+            {
+                <tr>
+                   <td>@e.id</td>
+                   <td>@e.name</td>
+                   <td>@e.fees</td>
+                   <td>@e.course</td>
+                   <td>@e.joinDate</td>
+                </tr>
+            }
+        }
+       
+    </tbody>
+
+</table>

@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\DAL1\bin\Debug\net7.0\DAL1.deps.json
+C:\Users\Admin\source\repos\DAL1\bin\Debug\net7.0\DAL1.dll
+C:\Users\Admin\source\repos\DAL1\bin\Debug\net7.0\DAL1.pdb
+C:\Users\Admin\source\repos\DAL1\bin\Debug\net7.0\BOL1.dll
+C:\Users\Admin\source\repos\DAL1\bin\Debug\net7.0\BOL1.pdb
+C:\Users\Admin\source\repos\DAL1\obj\Debug\net7.0\DAL1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DAL1\obj\Debug\net7.0\DAL1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\DAL1\obj\Debug\net7.0\DAL1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DAL1\obj\Debug\net7.0\DAL1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DAL1\obj\Debug\net7.0\DAL1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DAL1\obj\Debug\net7.0\DAL1.csproj.CopyComplete
+C:\Users\Admin\source\repos\DAL1\obj\Debug\net7.0\DAL1.dll
+C:\Users\Admin\source\repos\DAL1\obj\Debug\net7.0\refint\DAL1.dll
+C:\Users\Admin\source\repos\DAL1\obj\Debug\net7.0\DAL1.pdb
+C:\Users\Admin\source\repos\DAL1\obj\Debug\net7.0\ref\DAL1.dll
